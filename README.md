@@ -36,9 +36,3 @@ The obtained p-value from the t-test is 0.1433, or 14.33%, which exceeds our sig
 The shared Jupyter Notebook and Executive Summary are not only a demonstration of my Data Analytics capabilities but also an invitation to inspire and guide others in their Data Analysis endeavors. Your engagement and feedback enrich the collective learning experience, contributing to a dynamic Data Analytics community.
 
 📌 *The Waze app dataset used in this study was curated by the Google Analytics team in cooperation with Waze for pedagogical purposes. It does not reflect or represent the exact user behavior of the Waze navigation app.*
-## Tools and Packages Used
-* Python, Git, Google Sheets
-* Python version 3.11.0
-* Pandas version 1.4.2
-* Matplotlib version 3.5.1
-* Seaborn version 0.11.2
